@@ -37,21 +37,24 @@ QUESTIONS = [
             "money": 5000
         },
         {
-            "name": "This is the question",
-            "option1": "ans 1",
-            "option2": "ans 1",
-            "option3": "ans 1",
-            "option4": "ans 1",
-            "answer": 2,
+       
+            "name": " Where was the International Conference on 'Yoga for Diabetes' organized from January 4-6, 2017?",
+            "option1": "New Delhi ",
+            "option2": "Jharkhand",
+            "option3": "Jammu and Kashmir",
+            "option4": "Haryana",
+            "answer": 1,
             "money": 10000
         },
         {
-            "name": "This is the question",
-            "option1": "ans 1",
-            "option2": "ans 1",
-            "option3": "ans 1",
-            "option4": "ans 1",
-            "answer": 2,
+
+
+            "name": "Name the tower which was lighted up in Tricolour of India on Republic Day, 2017?",
+            "option1": "WTC Towers",
+            "option2": "Jeddah Tower",
+            "option3": "Burj Khalifa",
+            "option4": "Burj Al Arab",
+            "answer": 3,
             "money": 20000
         },
         {
@@ -66,8 +69,8 @@ QUESTIONS = [
         },
         {
             "name": "In what state is the Elephant Falls located?",
-            "option1": "Mizoram",
-            "option2": "Meghalaya",
+            "option1": "Meghalaya",
+            "option2": "Mizoram",
             "option3": "Orissa",
             "option4": "Manipur",
             "answer": 2,
@@ -103,10 +106,10 @@ QUESTIONS = [
         {
             "name": "In which state is the main language Khasi?",
             "option1": "Nagaland",
-            "option2": "Meghalaya",
+            "option2": "Rajasthan",
             "option3": "Maharashtra",
-            "option4": "Rajasthan",
-            "answer": 2,
+            "option4": "Meghalaya",
+            "answer": 4,
             "money": 1250000
         },
         {
@@ -133,10 +136,10 @@ QUESTIONS = [
         {
             "name": "When is the Indian Air Force Day celebrated?",
             "option1": "October 9",
-            "option2": "October 8",
-            "option3": "October 10",
+            "option2": "October 10",
+            "option3": "October 8",
             "option4": "October 11",
-            "answer": 2,
+            "answer": 3,
             "money": 10000000
         }
 
